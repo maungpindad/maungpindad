@@ -1,7 +1,4 @@
-<p align="center">
-  <a href="https://github.com/Dlanx19">
-    <img src="img/banner.png" alt="Ahmad Fadhlan" /></a>
-</p>
+<h2 align="center">👋 Hello! I'm Ahmad Fadhlan.</h2>
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
