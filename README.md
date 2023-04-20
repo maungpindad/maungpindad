@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/dlanx19"><img width="80%" alt="Hello, I'm Ahmad Fadhlan. I Love Open Source" src="img/banner.png" /></a></p>
+<p align="center"><a href="https://github.com/dlanx19"><img height=200px alt="Hello, I'm Ahmad Fadhlan. I Love Open Source" src="img/banner.png" /></a></p>
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
