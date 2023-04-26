@@ -1,0 +1,22 @@
+name: Profile Readme Development Stats
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update_stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Update stats
+        run: node update_stats.js
+        env:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
