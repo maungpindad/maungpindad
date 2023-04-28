@@ -45,13 +45,13 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 447 Bytes Used in GitHub's Storage 
+> 📦 448 Bytes Used in GitHub's Storage 
  > 
-> 🏆 42 Contributions in the Year 2023
+> 🏆 41 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 4 Public Repositories 
+> 📜 3 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -95,5 +95,5 @@ Windows                  1 hr 15 mins        ███████████�
 ```
 
 
- Last Updated on 27/04/2023 18:33:39 UTC
+ Last Updated on 28/04/2023 18:33:06 UTC
 <!--END_SECTION:waka-->
