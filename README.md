@@ -82,18 +82,20 @@ Sunday                   6 commits           ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     42 mins             █████████████░░░░░░░░░░░░   51.39 % 
+CSS                      39 mins             ████████████░░░░░░░░░░░░░   48.26 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 22 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Website-Jadian           1 hr 22 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 22 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/06/2023 15:13:32 UTC
+ Last Updated on 27/06/2023 15:14:44 UTC
 <!--END_SECTION:waka-->
