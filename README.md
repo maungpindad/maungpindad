@@ -12,7 +12,8 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Dlanx19?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/Dlanx19?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Dlanx19?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a alt="Contact" title="Contact me" href="https://t.me/choexo_dev" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"><a>
+  <a href="https://github.com/Dlanx19?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 <br>
 
@@ -27,6 +28,7 @@
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Android" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />
@@ -41,61 +43,62 @@
 <br>
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 5.1 kB Used in GitHub's Storage 
- > 
-> 🏆 64 Contributions in the Year 2023
- > 
+> 📦 5.1 kB Used in GitHub's Storage
+>
+> 🏆 63 Contributions in the Year 2023
+>
 > 🚫 Not Opted to Hire
- > 
-> 📜 5 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm an Early 🐤** 
+>
+> 📜 5 Public Repositories
+>
+> 🔑 0 Private Repositories
+>
+> **I'm an Early 🐤**
 
 ```text
-🌞 Morning                2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-🌆 Daytime                36 commits          ███████████████░░░░░░░░░░   58.06 % 
-🌃 Evening                24 commits          ██████████░░░░░░░░░░░░░░░   38.71 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌞 Morning                2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
+🌆 Daytime                36 commits          ███████████████░░░░░░░░░░   59.02 %
+🌃 Evening                23 commits          █████████░░░░░░░░░░░░░░░░   37.70 %
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
-📅 **I'm Most Productive on Monday** 
+
+📅 **I'm Most Productive on Monday**
 
 ```text
-Monday                   22 commits          █████████░░░░░░░░░░░░░░░░   35.48 % 
-Tuesday                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-Wednesday                14 commits          ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
-Thursday                 1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-Friday                   10 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-Saturday                 8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-Sunday                   6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+Monday                   21 commits          █████████░░░░░░░░░░░░░░░░   34.43 %
+Tuesday                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+Wednesday                14 commits          ██████░░░░░░░░░░░░░░░░░░░   22.95 %
+Thursday                 1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+Friday                   10 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.39 %
+Saturday                 8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.11 %
+Sunday                   6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
-💬 Programming Languages: 
-HTML                     42 mins             █████████████░░░░░░░░░░░░   51.39 % 
-CSS                      39 mins             ████████████░░░░░░░░░░░░░   48.26 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+💬 Programming Languages:
+HTML                     42 mins             █████████████░░░░░░░░░░░░   51.39 %
+CSS                      39 mins             ████████████░░░░░░░░░░░░░   48.26 %
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 
-🔥 Editors: 
-VS Code                  1 hr 22 mins        █████████████████████████   100.00 % 
+🔥 Editors:
+VS Code                  1 hr 22 mins        █████████████████████████   100.00 %
 
-🐱‍💻 Projects: 
-Website-Jadian           1 hr 22 mins        █████████████████████████   100.00 % 
+🐱‍💻 Projects:
+Website-Jadian           1 hr 22 mins        █████████████████████████   100.00 %
 
-💻 Operating System: 
-Windows                  1 hr 22 mins        █████████████████████████   100.00 % 
+💻 Operating System:
+Windows                  1 hr 22 mins        █████████████████████████   100.00 %
 ```
 
+Last Updated on 02/07/2023 15:12:49 UTC
 
- Last Updated on 03/07/2023 12:18:57 UTC
 <!--END_SECTION:waka-->
