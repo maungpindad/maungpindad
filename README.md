@@ -54,7 +54,7 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 7 Public Repositories 
+> 📜 6 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -83,18 +83,20 @@ Sunday                   10 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       40 mins             █████████████████████████   98.27 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  41 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Game_Sederhana           41 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    41 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 25/02/2024 15:11:05 UTC
+ Last Updated on 26/02/2024 15:12:54 UTC
 <!--END_SECTION:waka-->
