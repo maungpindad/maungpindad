@@ -89,16 +89,10 @@ Sunday                   10 commits          ███░░░░░░░░�
 💬 Programming Languages: 
 No Activity Tracked This Week
 
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
 💻 Operating System: 
 No Activity Tracked This Week
 ```
 
 
- Last Updated on 09/04/2024 14:43:25 UTC
+ Last Updated on 09/04/2024 15:12:56 UTC
 <!--END_SECTION:waka-->
