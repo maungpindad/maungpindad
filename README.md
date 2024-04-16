@@ -49,7 +49,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-146%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-146%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-132-blue)
 
@@ -88,12 +88,12 @@ Sunday                   10 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       40 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    40 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 15/04/2024 15:13:36 UTC
+ Last Updated on 16/04/2024 15:13:04 UTC
 <!--END_SECTION:waka-->
