@@ -32,7 +32,6 @@
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="35px" style="padding-right:10px;" src="https://github.com/Choexo-Dev/Choexo-Dev/blob/main/img/github.png" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Android" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />
@@ -49,53 +48,54 @@
 <br>
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-146%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-135-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 65.8 kB Used in GitHub's Storage 
- > 
+> 📦 65.8 kB Used in GitHub's Storage
+>
 > 🏆 11 Contributions in the Year 2024
- > 
+>
 > 🚫 Not Opted to Hire
- > 
-> 📜 5 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm an Early 🐤** 
+>
+> 📜 5 Public Repositories
+>
+> 🔑 0 Private Repositories
+>
+> **I'm an Early 🐤**
 
 ```text
-🌞 Morning                10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-🌆 Daytime                47 commits          ██████████████░░░░░░░░░░░   54.02 % 
-🌃 Evening                30 commits          █████████░░░░░░░░░░░░░░░░   34.48 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌞 Morning                10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.49 %
+🌆 Daytime                47 commits          ██████████████░░░░░░░░░░░   54.02 %
+🌃 Evening                30 commits          █████████░░░░░░░░░░░░░░░░   34.48 %
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
-📅 **I'm Most Productive on Monday** 
+
+📅 **I'm Most Productive on Monday**
 
 ```text
-Monday                   25 commits          ███████░░░░░░░░░░░░░░░░░░   28.74 % 
-Tuesday                  5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
-Wednesday                22 commits          ██████░░░░░░░░░░░░░░░░░░░   25.29 % 
-Thursday                 3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-Friday                   10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-Saturday                 12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-Sunday                   10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+Monday                   25 commits          ███████░░░░░░░░░░░░░░░░░░   28.74 %
+Tuesday                  5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
+Wednesday                22 commits          ██████░░░░░░░░░░░░░░░░░░░   25.29 %
+Thursday                 3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
+Friday                   10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.49 %
+Saturday                 12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.79 %
+Sunday                   10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.49 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
-💬 Programming Languages: 
-Go                       40 mins             █████████████████████████   100.00 % 
+💬 Programming Languages:
+Go                       40 mins             █████████████████████████   100.00 %
 
-💻 Operating System: 
-Linux                    40 mins             █████████████████████████   100.00 % 
+💻 Operating System:
+Linux                    40 mins             █████████████████████████   100.00 %
 ```
 
+Last Updated on 22/04/2024 15:13:49 UTC
 
- Last Updated on 22/04/2024 15:13:49 UTC
 <!--END_SECTION:waka-->
