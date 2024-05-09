@@ -89,13 +89,12 @@ Sunday                   10 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-HTML                     45 mins             ███████████████░░░░░░░░░░   61.12 % 
-CSS                      28 mins             ██████████░░░░░░░░░░░░░░░   38.88 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 14 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 08/05/2024 15:13:17 UTC
+ Last Updated on 09/05/2024 15:14:53 UTC
 <!--END_SECTION:waka-->
