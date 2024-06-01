@@ -48,7 +48,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-155%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-159%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -99,5 +99,5 @@ Linux                    6 hrs 25 mins       ███████████�
 ```
 
 
- Last Updated on 31/05/2024 15:16:15 UTC
+ Last Updated on 01/06/2024 15:13:01 UTC
 <!--END_SECTION:waka-->
