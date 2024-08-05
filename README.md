@@ -56,6 +56,8 @@
 
 > 📦 66.7 kB Used in GitHub's Storage 
  > 
+> 🏆 13 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 5 Public Repositories 
@@ -87,15 +89,12 @@ Sunday                   10 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-HTML                     1 hr 47 mins        ███████████████████████░░   92.17 % 
-CSS                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-Image (svg)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 56 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 04/08/2024 15:14:39 UTC
+ Last Updated on 05/08/2024 15:15:21 UTC
 <!--END_SECTION:waka-->
