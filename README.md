@@ -45,6 +45,12 @@
 
 ---
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choexo-Dev&show_icons=true&theme=dracula)
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Choexo-Dev&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 <br>
 
 <!--START_SECTION:waka-->
