@@ -16,9 +16,6 @@
   <a href="https://t.me/choexo_dev">
     <img alt="Contact" title="Contact me on Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
-<br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choexo-Dev&show_icons=true&theme=dracula)
 
 <br>
 <br>
@@ -53,7 +50,7 @@
 
 <br>
 
-<!--START_SECTION:waka-->
+<!--START_SECTION:waka-->&theme=dracula&theme=dracula
 ![Code Time](http://img.shields.io/badge/Code%20Time-166%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
