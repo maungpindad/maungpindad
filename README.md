@@ -41,7 +41,7 @@
 ### 💻 My Stats
 
 ---
-
+<br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Choexo-Dev" />
 </a>
@@ -56,8 +56,7 @@
 ```text
 🔥 Editors: 
 Unknown Editor           0 secs              █████████████████████░░░░   84.26 % 
-VS Code                  0 secs              ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
-
+VS Code          c
 🐱‍💻 Projects: 
 Bootstrap-Portfolio      0 secs              █████████████████████████   100.00 % 
 
