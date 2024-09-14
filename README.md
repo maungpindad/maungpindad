@@ -52,16 +52,15 @@
 
 ```text
 🔥 Editors: 
-VS Code                  2 mins              ███████████████░░░░░░░░░░   61.95 % 
-Unknown Editor           1 min               ██████████░░░░░░░░░░░░░░░   38.05 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Learn_GoLang             4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 13/09/2024 15:16:33 UTC
+ Last Updated on 14/09/2024 15:14:27 UTC
 <!--END_SECTION:waka-->
