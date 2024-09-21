@@ -40,6 +40,7 @@
 ### 💻 My Stats
 
 ---
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Choexo-Dev" />
 </a>
@@ -47,20 +48,23 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Choexo-Dev&layout=compact&langs_count=8&card_width=300" />
 </a>
 <br>
+<br>
+
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
+
+📊 **This Week I Spent My Time On**
 
 ```text
-🔥 Editors: 
+🔥 Editors:
 No Activity Tracked This Week
 
-🐱‍💻 Projects: 
+🐱‍💻 Projects:
 No Activity Tracked This Week
 
-💻 Operating System: 
+💻 Operating System:
 No Activity Tracked This Week
 ```
 
+Last Updated on 20/09/2024 15:16:23 UTC
 
- Last Updated on 20/09/2024 15:16:23 UTC
 <!--END_SECTION:waka-->
