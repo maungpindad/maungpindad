@@ -51,6 +51,19 @@
 <br>
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 20/09/2025 15:15:21 UTC
+```text
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 21/09/2025 15:15:14 UTC
 <!--END_SECTION:waka-->
