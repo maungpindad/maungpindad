@@ -55,15 +55,15 @@
 
 ```text
 🔥 Editors: 
-VS Code                  1 hr 11 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Learn-Python             1 hr 11 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 11 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 15/12/2025 15:23:13 UTC
+ Last Updated on 16/12/2025 15:23:22 UTC
 <!--END_SECTION:waka-->
