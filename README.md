@@ -55,15 +55,15 @@
 
 ```text
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  28 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Learn-C                  28 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    28 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 05/02/2026 15:39:20 UTC
+ Last Updated on 06/02/2026 15:38:35 UTC
 <!--END_SECTION:waka-->
